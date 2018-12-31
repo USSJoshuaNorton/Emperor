@@ -1,0 +1,14 @@
+skin: Emperor
+location: emperor
+credits: Emperor is a fork of the Neptune 1.0 skin done by <a href="mailto:amy@deathkitten.net">Amy</a>, which was created by <a href="https://xtras.anodyne-productions.com/profile/emily">Emily</a>. This skin incorporates elements from both <a href="https://getbootstrap.com/">Twitter's Bootstrap</a> and <a href="https://fontawesome.com/">Font Awesome</a>. Edits are permissible as long as original credits stay intact.
+version: 0.1
+sections:
+  -
+    type: main
+    preview: preview-main.jpg
+  -
+    type: admin
+    preview: preview-admin.jpg
+  -
+    type: login
+    preview: preview-login.jpg
