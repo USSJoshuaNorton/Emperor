@@ -2,7 +2,7 @@ Emperor is a fork of version 1.0 of the [Neptune](https://xtras.anodyne-producti
 
 ---
 
-This skin does not have a version for the wiki section. You will need to find another skin for you wiki section if you use the Thresher wiki provided with Nova.
+This skin does not have a version for the wiki section. You will need to find another skin for your wiki section if you use the Thresher wiki provided with Nova.
 
 ---
 
