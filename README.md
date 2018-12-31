@@ -12,8 +12,8 @@ This skin does not have a version for the wiki section. You will need to find an
 2. Navigate to `Control Panel > Site Management > Skin Catalog`, click the `Install` next to `Emperor` at the top of the page.
 3. Navigate to `Control Panel > Site Management > Settings > User-created Settings > Manage User-Created Settings`
 4. Add User-Created Setting:
-    a. Label: `Font Awesome Type` Setting Key: `FAtype` Value: `fas` for free Solid Font Awesome, `far` for free Regular Font Awesome, `fal` for pro¹ Light Font Awesome
-    b. Label: `Font Awesome Source` Setting Key: `FAsrc` Value: the url to where your Font Awesome `all.css` is going to be served from², be it locally hosted or the Font Awesome CDN.
+    * Label: `Font Awesome Type` Setting Key: `FAtype` Value: `fas` for free Solid Font Awesome, `far` for free Regular Font Awesome, `fal` for pro¹ Light Font Awesome
+    * Label: `Font Awesome Source` Setting Key: `FAsrc` Value: the url to where your Font Awesome `all.css` is going to be served from², be it locally hosted or the Font Awesome CDN.
     
     
 ¹ This skin was designed with the Light version of Font Awesome, but requires the purchase of a license from [Font Awesome](https://fontawesome.com/pro) to use. The solid and regular versions are available for free.
