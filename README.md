@@ -9,7 +9,7 @@ This skin does not have a version for the wiki section. You will need to find an
 # Installation
 
 1. Acquire the files in your preferred manner—download zip file and unzip locally before uploading via ftp, upload zip file directly to your remote server and unzip there, use git, carrier pigeon, subspace transmission, etc—and place decompressed files in `/application/views/`. Ensure that everything is in a folder called `emperor`.
-2. Navigate to `Control Panel > Site Management > Skin Catalog`, click the `Install` next to `Emperor` at the top of the page.
+2. Navigate to `Control Panel > Site Management > Skin Catalog`, click `Install` next to `Emperor` at the top of the page.
 3. Navigate to `Control Panel > Site Management > Settings > User-created Settings > Manage User-Created Settings`
 4. Add User-Created Setting:
     * Label: `Font Awesome Type` Setting Key: `FAtype` Value: `fas` for free Solid Font Awesome, `far` for free Regular Font Awesome, `fal` for pro¹ Light Font Awesome
